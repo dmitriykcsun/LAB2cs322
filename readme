@@ -1,3 +1,5 @@
 This is a submission of lab 2 for Dmitriy Khristoforov for CSUN cs322 spring 2020. Project consists of two parts, launch and tube, command line tools that use fork() and execve() to execute commands. 
 
-if this line is here, project tube is unfinished
+Launch runs the command supplied after "./launch" such as ".launch /bin/ls".
+
+Tube runs two commands supplied after it with a pipe from the first command putting stdout into the stdin of the second command such as, "./tube /bin/ls -l , /bin/cat".

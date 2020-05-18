@@ -1,3 +1,7 @@
+NB: Professor Benson, I was unable to submit lab6 and lab7 to canvas, here are the links to them:
+https://github.com/dmitriykcsun/lab6cs322
+https://github.com/dmitriykcsun/lab7cs322
+
 This is a submission of lab 2 for Dmitriy Khristoforov for CSUN cs322 spring 2020. Project consists of two parts, launch and tube, command line tools that use fork() and execve() to execute commands. 
 
 Launch runs the command supplied after "./launch" such as ".launch /bin/ls".
